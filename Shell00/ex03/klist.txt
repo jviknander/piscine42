@@ -1,0 +1,2 @@
+Credentials cache: API:DCD585D7-EC65-4E7F-A7C3-3D4FF4EDE687
+        Principal: jde-melo@42LISBOA.COM
